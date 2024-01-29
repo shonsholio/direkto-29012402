@@ -14,16 +14,15 @@ function Detalles() {
           <ul className='lista-detalles'> 
             <li>Tipo de inmueble:  Bodega</li>
             <li>Ubicación:  Barranquilla</li>
-            <li>Area:  2200 m2</li>
-            <li>Ubicado sobre vía principal</li>
-            <li>Circuito cerrado de TV</li>
-            <li>2 puertas de acceso</li>
-            <li>Amplia zona de oficinas</li>
-            <li>Rampa de acceso a Nivel</li>
-            <li>Zona de parqueo</li>
-            <li>10 mts de altura mínima</li>
-            <li>Amplia zona de oficinas con baños</li>
-            <li>Baño en zona de bodega</li>
+            <li>Area:  2062 m2</li>
+            <li>Ubicada en Parque Industrial</li>
+            <li>Puerto de aguas profundas (6 km)</li>
+            <li>Zona Franca Sofia (11 km)</li>
+            <li>Via Cartagena (9.4 km)</li>
+            <li>Aeropuerto Ernesto Cortizos (19km)</li>
+            <li>Zona portuaria (13 km)</li>
+            <li>Via Santa Marta (8 km)</li>
+
           </ul> 
         </div>
       </div>

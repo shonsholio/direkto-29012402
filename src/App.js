@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header>
         <Header 
-        titulo='Bodega en venta, Sector Calle 30'
+        titulo='Bodega en venta, Sector Circunvalar - La Paz'
         />
         <hr />
       </header>
