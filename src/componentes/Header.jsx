@@ -1,6 +1,6 @@
 import './Header.css';
 
-function Header() {
+function Header(props) {
   return (
     <div className="header">
       <div className='contenedor-header'>
@@ -12,7 +12,7 @@ function Header() {
           alt="logo direkto" />
         </div>
 
-        <h1 className='titulo'>Apartamento en Venta, Sector Ciudad Jardin</h1>
+        <h1 className='titulo'>{props.titulo}</h1>
         
       </div>
     </div>
